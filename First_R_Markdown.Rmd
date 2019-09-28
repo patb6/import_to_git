@@ -3,6 +3,8 @@ title: "First_R_Makrdown"
 author: "Patrick Brooks"
 date: "9/27/2019"
 output:
+  html_document:
+    df_print: paged
   pdf_document: default
   word_document: default
 ---
@@ -30,3 +32,16 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+dkdk ~~strikethrough~~ 
+
+
+
+
+
+
+
+
+
+
